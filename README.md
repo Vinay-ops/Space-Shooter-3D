@@ -19,11 +19,9 @@ Enter a stunning 3D space environment and face wave after wave of enemy ships. S
 - **Avoid Enemy Fire** and destroy enemies to survive  
 - Progress through levels by eliminating all enemies  
 
-## 📷 Screenshots
-*(Add mobile gameplay screenshots here)*
 
 ## 📦 Play Now
-- **Online Play:** [Play on itch.io](https://your-itch-link-here)  
+- **Online Play:** [Play on itch.io]  https://vinaybhogal.itch.io/space-shooter-3d
 - Works on most Android devices with a modern browser  
 - No installation required for web version — just tap and play!  
 
@@ -39,4 +37,4 @@ Enter a stunning 3D space environment and face wave after wave of enemy ships. S
 - Improved mobile controls
 
 ---
-**Play Now on Mobile:** [👉 Tap to Play](https://your-itch-link-here)
+**Play Now on Mobile:** [👉 Tap to Play] https://vinaybhogal.itch.io/space-shooter-3d
