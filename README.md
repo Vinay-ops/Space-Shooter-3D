@@ -22,8 +22,7 @@ Enter a stunning 3D space environment and face wave after wave of enemy ships. S
 
 ## 📦 Play Now
 - **Online Play:** [Play on itch.io]  https://vinaybhogal.itch.io/space-shooter-3d
-- Works on most Android devices with a modern browser  
-- No installation required for web version — just tap and play!  
+- Works on most Android devices 
 
 ## 🛠️ Built With
 - **Unity 3D** (Mobile optimized)
